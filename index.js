@@ -94,12 +94,12 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:ZEUS\n' //NAMA LU
             + 'ORG:Owner Bot;\n' // NAMA CONTACT OWNER
-            + 'TEL;type=CELL;type=VOICE;waid=556993899391:+55 69 9389-9391\n' // NOMER OWNER
+            + 'TEL;type=CELL;type=VOICE;waid=5519996148526:+55 19 99614-8526\n' // NOMER OWNER
             + 'END:VCARD'
 prefix = '#'//PREFIX BOT
 blocked = ['556993899391']//NOMER BLOCK
-limitawal = '50'
-cr = '*chat do zeus domina*'
+limitawal = '999'
+cr = '*chat do Anonimo*'
 
 // Functions
 const getLevelingXp = (userId) => {
