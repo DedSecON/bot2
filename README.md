@@ -1,4 +1,3 @@
-### OPAAA ZEUS AKI GARAIO ⚡
 
 ## Ferramentas
 
